@@ -22,10 +22,10 @@ const Footer = () => {
           <Col className="align-content-center">
             <h4>GET IN TOUCH</h4>
             <div>
-              <MdEmail /> h13@gmail.com
+              <MdEmail /> your.email@example.com
             </div>
             <div>
-              <MdContactPhone /> 717-885-1234
+              <MdContactPhone /> +1 (555) 123-4567
             </div>
           </Col>
           <Col className="align-content-center">

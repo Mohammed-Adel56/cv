@@ -1,10 +1,10 @@
 import { Container } from "react-bootstrap";
 import Row from "react-bootstrap/Row";
 import CardRea from "./Card/Card";
-const Protfolio = () => {
+const Portfolio = () => {
   return (
     <>
-      <h3 className="p-5">Protfolio</h3>
+      <h3 className="p-5">Portfolio</h3>
       <Container fluid>
         <Row className="p-2 m-5">
           <CardRea name="WEB DESiGN" color="gray" />
@@ -21,4 +21,4 @@ const Protfolio = () => {
   );
 };
 
-export default Protfolio;
+export default Portfolio;

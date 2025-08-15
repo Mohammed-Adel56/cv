@@ -9,7 +9,7 @@ export const Skills = () => {
       <Container fluid className="mt-5" style={{ backgroundColor: "#3D3D3D" }}>
         <Row className="justify-content-center text-center text-white">
           <Stack gap={3}>
-            <h2 className="p-2">SKills</h2>
+            <h2 className="p-2">Skills</h2>
             <Row className="justify-content-center text-center">
               <p className="p-2 col-7 text-center ">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -26,13 +26,13 @@ export const Skills = () => {
             <Container className="p-2 ">
               <Row>
                 <Col className=" text-center">
-                  <h4>MY FOUCES</h4>
+                  <h4>MY FOCUSES</h4>
 
                   <hr className="w-50 m-auto" />
 
                   <Stack gap={3}>
-                    <div className="p-2">UI/Ux Design</div>
-                    <div className="p-2">Resposive Design</div>
+                    <div className="p-2">UI/UX Design</div>
+                    <div className="p-2">Responsive Design</div>
                     <div className="p-2">Web Design</div>
                     <div className="p-2">Mobile App Design</div>
                   </Stack>

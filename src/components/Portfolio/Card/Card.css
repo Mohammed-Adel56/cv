@@ -1,0 +1,12 @@
+.portfolio-card {
+  width: 12rem;
+  height: 12rem;
+}
+
+.portfolio-card-gray {
+  background-color: gray;
+}
+
+.portfolio-card-black {
+  background-color: black;
+}
